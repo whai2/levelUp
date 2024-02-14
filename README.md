@@ -84,7 +84,7 @@
 
 <br/>
 
-## 3️⃣ Pull request 하는 방법📖
+## 3️⃣ Pull request 작성 방법📖
 <br/>
 
 <img src="https://cdn.discordapp.com/attachments/1202183308889559080/1207156119089319956/2024-02-14_11.46.51.png?ex=65de9ebe&is=65cc29be&hm=ac77d0b8274e06cafbb6ff8da2e4d4dcb04b617e2f39a5a3e4f41e412646a885&"/>
