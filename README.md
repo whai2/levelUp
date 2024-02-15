@@ -44,43 +44,41 @@
     <td align="center"><a href="https://solved.ac/"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj="/><br/>solved.ac<br/>profile</a></td>
     <td align="center"><a href="https://solved.ac/"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj="/><br/>solved.ac<br/>profile</a></td>
   </tr>
-  <tr>
-    <td width="180px"align="left">
-      <img src="https://img.shields.io/badge/html5-050505?style=flat&logo=html5&logoColor=E34F26"/>
-      <img src="https://img.shields.io/badge/css3-050505?style=flat&logo=css3&logoColor=1572B6"/>
-      <img src="https://img.shields.io/badge/javascript-050505?style=flat&logo=javascript&logoColor=F7DF1E"/>
-      <img src="https://img.shields.io/badge/react-050505?style=flat&logo=react&logoColor=61DAFB"/>
-    </td>
-    <td width="180px"align="left">
-      <img src="https://img.shields.io/badge/html5-050505?style=flat&logo=html5&logoColor=E34F26"/>
-      <img src="https://img.shields.io/badge/css3-050505?style=flat&logo=css3&logoColor=1572B6"/>
-      <img src="https://img.shields.io/badge/javascript-050505?style=flat&logo=javascript&logoColor=F7DF1E"/>
-      <img src="https://img.shields.io/badge/react-050505?style=flat&logo=react&logoColor=61DAFB"/>
-    </td>
-    <td width="180px"align="left">
-      <img src="https://img.shields.io/badge/html5-050505?style=flat&logo=html5&logoColor=E34F26"/>
-      <img src="https://img.shields.io/badge/css3-050505?style=flat&logo=css3&logoColor=1572B6"/>
-      <img src="https://img.shields.io/badge/javascript-050505?style=flat&logo=javascript&logoColor=F7DF1E"/>
-      <img src="https://img.shields.io/badge/react-050505?style=flat&logo=react&logoColor=61DAFB"/>
-    </td>
-    <td width="180px"align="left">
-      <img src="https://img.shields.io/badge/html5-050505?style=flat&logo=html5&logoColor=E34F26"/>
-      <img src="https://img.shields.io/badge/css3-050505?style=flat&logo=css3&logoColor=1572B6"/>
-      <img src="https://img.shields.io/badge/javascript-050505?style=flat&logo=javascript&logoColor=F7DF1E"/>
-      <img src="https://img.shields.io/badge/react-050505?style=flat&logo=react&logoColor=61DAFB"/>
-    </td>
-    <td width="180px"align="left">
-      <img src="https://img.shields.io/badge/html5-050505?style=flat&logo=html5&logoColor=E34F26"/>
-      <img src="https://img.shields.io/badge/css3-050505?style=flat&logo=css3&logoColor=1572B6"/>
-      <img src="https://img.shields.io/badge/javascript-050505?style=flat&logo=javascript&logoColor=F7DF1E"/>
-      <img src="https://img.shields.io/badge/react-050505?style=flat&logo=react&logoColor=61DAFB"/>
-    </td>
-   
-  </tr>
+
 </table>
 <br/>
 
+<details>
+  <summary>주 스킬 소개☝️</summary>
+<br/>
+ 
+- <b>노은수  </b> <br/>
+  <img src="https://img.shields.io/badge/html5-050505?style=flat&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/css3-050505?style=flat&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/javascript-050505?style=flat&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/react-050505?style=flat&logo=react&logoColor=61DAFB"/>
+- <b>김준영  </b> <br/>
+  <img src="https://img.shields.io/badge/html5-050505?style=flat&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/css3-050505?style=flat&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/javascript-050505?style=flat&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/react-050505?style=flat&logo=react&logoColor=61DAFB"/>
+- <b>박현우  </b> <br/>
+  <img src="https://img.shields.io/badge/html5-050505?style=flat&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/css3-050505?style=flat&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/javascript-050505?style=flat&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/react-050505?style=flat&logo=react&logoColor=61DAFB"/>
+- <b>안연아  </b> <br/>
+  <img src="https://img.shields.io/badge/html5-050505?style=flat&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/css3-050505?style=flat&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/javascript-050505?style=flat&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/react-050505?style=flat&logo=react&logoColor=61DAFB"/>
+- <b>류광현  </b> <br/>
+  <img src="https://img.shields.io/badge/html5-050505?style=flat&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/css3-050505?style=flat&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/javascript-050505?style=flat&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/react-050505?style=flat&logo=react&logoColor=61DAFB"/>
 
+</details>
 
 <br/>
 
