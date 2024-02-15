@@ -38,7 +38,7 @@
     <td height="160px" align="center"><a href="https://github.com/RyuGwangHyeon"><img src="https://avatars.githubusercontent.com/u/155417957?v=4" width="160px"/><br/>👊FE_류광현</a></td> 
   </tr>
   <tr>
-    <td align="center"><a href="https://solved.ac/"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj="/><br/>solved.ac<br/>profile</a></td>
+    <td align="center"><a href="https://solved.ac/whai2125"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whai2125"/><br/>solved.ac<br/>profile</a></td>
     <td align="center"><a href="https://solved.ac/yipco77"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yipco77"/><br/>solved.ac<br/>profile</a></td>
     <td align="center"><a href="https://solved.ac/pq1000"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=pq1000"/><br/>solved.ac<br/>profile</a></td>
     <td align="center"><a href="https://solved.ac/aya813"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=aya813"/><br/>solved.ac<br/>profile</a></td>
