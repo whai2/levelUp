@@ -1,6 +1,6 @@
- # 🖥️알고리즘 스터디 Level-UP🆙
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=🖥️알고리즘%20스터디%20Level-UP🆙&fontSize=50" />
  
- <br/>
+
  
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhai2%2FlevelUp&count_bg=%237E00FF&title_bg=%238D63F5&icon=uplabs.svg&icon_color=%23FFF500&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
