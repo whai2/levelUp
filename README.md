@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=🖥️알고리즘%20스터디%20Level-UP🆙&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=🖥️알고리즘%20스터디%20Level-UP🆙&fontSize=50&fontAlignY=40" />
  
 
  
