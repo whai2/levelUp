@@ -39,9 +39,9 @@
   </tr>
   <tr>
     <td align="center"><a href="https://solved.ac/"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj="/><br/>solved.ac<br/>profile</a></td>
-    <td align="center"><a href="https://solved.ac/"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj="/><br/>solved.ac<br/>profile</a></td>
+    <td align="center"><a href="https://solved.ac/yipco77"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yipco77"/><br/>solved.ac<br/>profile</a></td>
     <td align="center"><a href="https://solved.ac/pq1000"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=pq1000"/><br/>solved.ac<br/>profile</a></td>
-    <td align="center"><a href="https://solved.ac/"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj="/><br/>solved.ac<br/>profile</a></td>
+    <td align="center"><a href="https://solved.ac/aya813"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=aya813"/><br/>solved.ac<br/>profile</a></td>
     <td align="center"><a href="https://solved.ac/"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj="/><br/>solved.ac<br/>profile</a></td>
   </tr>
 
