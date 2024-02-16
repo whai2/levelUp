@@ -124,8 +124,8 @@
   <td align='center'>01</td>
   <td align='center' width='120px'>24 / 2 / 13</td>
   <td align='center' width='110px'>28278</td>
-  <td align='center' width='300px'><a href='https://www.acmicpc.net/problem/28278'>스택 2</a></td>
-  <td align='center' width='120px'>스택</td>
+  <td align='center' width='120px'><a href='https://www.acmicpc.net/problem/28278'>스택 2</a></td>
+  <td align='center' width='300px'>스택</td>
   <td align='center'>X</td>
  </tr>
 </table>
