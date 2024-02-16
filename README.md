@@ -31,11 +31,11 @@
 
 <table>
   <tr>
-    <td height="160px" align="center"><a href="https://github.com/whai2"><img src="https://avatars.githubusercontent.com/u/98308702?v=4" width="160px"/><br/>👊FE_노은수</a></td> 
-    <td height="160px" align="center"><a href="https://github.com/yohan11"><img src="https://avatars.githubusercontent.com/u/40304565?v=4" width="160px"/><br/>👊FE_김준영</a></td> 
-    <td height="160px" align="center"><a href="https://github.com/juniorcoma"><img src="https://avatars.githubusercontent.com/u/143431179?v=4" width="160px"/><br/>👊FE_박현우</a></td> 
-    <td height="160px" align="center"><a href="https://github.com/yeona813"><img src="https://avatars.githubusercontent.com/u/129318957?v=4" width="160px"/><br/>👊FE_안연아</a></td> 
-    <td height="160px" align="center"><a href="https://github.com/RyuGwangHyeon"><img src="https://avatars.githubusercontent.com/u/155417957?v=4" width="160px"/><br/>👊FE_류광현</a></td> 
+    <td height="160px" align="center"><a href="https://github.com/whai2"><img src="https://avatars.githubusercontent.com/u/98308702?v=4" width="160px"/><br/>🐶FE_노은수</a></td> 
+    <td height="160px" align="center"><a href="https://github.com/yohan11"><img src="https://avatars.githubusercontent.com/u/40304565?v=4" width="160px"/><br/>🐸FE_김준영</a></td> 
+    <td height="160px" align="center"><a href="https://github.com/juniorcoma"><img src="https://avatars.githubusercontent.com/u/143431179?v=4" width="160px"/><br/>😺FE_박현우</a></td> 
+    <td height="160px" align="center"><a href="https://github.com/yeona813"><img src="https://avatars.githubusercontent.com/u/129318957?v=4" width="160px"/><br/>🐣FE_안연아</a></td> 
+    <td height="160px" align="center"><a href="https://github.com/RyuGwangHyeon"><img src="https://avatars.githubusercontent.com/u/155417957?v=4" width="160px"/><br/>🦄FE_류광현</a></td> 
   </tr>
   <tr>
     <td align="center"><a href="https://solved.ac/whai2125"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whai2125"/><br/>solved.ac<br/>profile</a></td>
