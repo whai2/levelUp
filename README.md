@@ -111,3 +111,21 @@
 <br/>
 
 ## 7️⃣  문제 진행 현황
+<table>
+ <tr>
+  <td>순번</td>
+  <td>출제 날짜</td>
+  <td>문제 번호</td>
+  <td width='250px' align='center'>문제 이름</td>
+  <td width='250px' align='center'>알고리즘 분류</td>
+  <td>추가사항</td>
+ </tr>
+ <tr>
+  <td align='center'>1</td>
+  <td align='center'>24 / 2 / 13</td>
+  <td align='center'>28278</td>
+  <td width='250px' align='center'><a href='https://www.acmicpc.net/problem/28278'>스택 2</a></td>
+  <td width='250px' align='center'>스택</td>
+  <td align='center'>X</td>
+ </tr>
+</table>
