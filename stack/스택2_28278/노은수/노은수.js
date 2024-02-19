@@ -1,5 +1,5 @@
 // 입력 (파일)
-const fs = require('fs');
+const fs = require("fs");
 let input = fs.readFileSync("./input.txt").toString();
 
 // 실제 입력
@@ -7,13 +7,15 @@ let input = fs.readFileSync("./input.txt").toString();
 
 // 입력 정제
 const inputObject = {
-  count : 0,
-  cases : []
+  count: 0,
+  cases: [],
 };
 
 const splitInputLines = input.split("\n");
 for (let i = 0; i < splitInputLines.length; i++) {
-  const arr = splitInputLines[i].split(" ").map((splitInputLine) => Number(splitInputLine));
+  const arr = splitInputLines[i]
+    .split(" ")
+    .map((splitInputLine) => Number(splitInputLine));
 
   if (i === 0) {
     inputObject.count = arr[i];
@@ -38,8 +40,7 @@ function command(order) {
   if (orderCase === 1) {
     stack.push(order[1]);
     return;
-  } 
-  else if (orderCase === 2) {
+  } else if (orderCase === 2) {
     if (stack.length === 0) {
       result.push(-1);
       return;
@@ -47,12 +48,10 @@ function command(order) {
       result.push(stack.pop());
       return;
     }
-  }
-  else if (orderCase === 3) {
+  } else if (orderCase === 3) {
     result.push(stack.length);
     return;
-  }
-  else if (orderCase === 4) {
+  } else if (orderCase === 4) {
     if (stack.length === 0) {
       result.push(1);
       return;
@@ -60,8 +59,7 @@ function command(order) {
       result.push(0);
       return;
     }
-  }
-  else if (orderCase === 5) {
+  } else if (orderCase === 5) {
     if (stack.length === 0) {
       result.push(-1);
       return;
