@@ -132,7 +132,7 @@
   <td align='center'>02</td>
   <td align='center' width='120px'>24 / 2 / 19</td>
   <td align='center' width='110px'>3986</td>
-  <td align='center' width='120px'><a href='https://www.acmicpc.net/problem/3986'>좋은 단</a></td>
+  <td align='center' width='120px'><a href='https://www.acmicpc.net/problem/3986'>좋은 단어</a></td>
   <td align='center' width='300px'>스택</td>
   <td align='center'>X</td>
  </tr>
