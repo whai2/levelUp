@@ -10,16 +10,12 @@ const inputObject = {
   words : [],
 }
 
-const splitInputLines = input.split("\n");
+const splitInputLines = input.split("\n").map(v=>v.trim());
 for (let i = 0; i < splitInputLines.length; i++) {
-  const arr = splitInputLines[i]
-    .split("")
-    .map((splitInputLine) => splitInputLine);
-
   if (i === 0) {
-    inputObject.number = Number(arr[i]);
+    inputObject.number = splitInputLines[i];
   } else {
-    inputObject.words.push(arr);
+    inputObject.words.push(splitInputLines[i]);
   }
 }
 
