@@ -124,7 +124,7 @@
   <td align='center'>01</td>
   <td align='center' width='120px'>24 / 2 / 13</td>
   <td align='center' width='110px'>28278</td>
-  <td align='center' width='120px'><a href='https://www.acmicpc.net/problem/28278'>스택 2</a></td>
+  <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/28278'>스택 2</a></td>
   <td align='center' width='300px'>스택</td>
   <td align='center'>X</td>
  </tr>
@@ -132,8 +132,16 @@
   <td align='center'>02</td>
   <td align='center' width='120px'>24 / 2 / 19</td>
   <td align='center' width='110px'>3986</td>
-  <td align='center' width='120px'><a href='https://www.acmicpc.net/problem/3986'>좋은 단어</a></td>
+  <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/3986'>좋은 단어</a></td>
   <td align='center' width='300px'>스택</td>
+  <td align='center'>X</td>
+ </tr>
+ <tr>
+  <td align='center'>03</td>
+  <td align='center' width='120px'>24 / 2 / 22</td>
+  <td align='center' width='110px'>1417</td>
+  <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/1417'>국회의원 선거</a></td>
+  <td align='center' width='300px'>큐</td>
   <td align='center'>X</td>
  </tr>
 </table>
