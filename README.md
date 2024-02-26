@@ -136,4 +136,12 @@
   <td align='center' width='300px'>스택</td>
   <td align='center'>X</td>
  </tr>
+ <tr>
+  <td align='center'>03</td>
+  <td align='center' width='120px'>24 / 2 / 22</td>
+  <td align='center' width='110px'>1417</td>
+  <td align='center' width='120px'><a href='https://www.acmicpc.net/problem/1417'>국회의원 선거</a></td>
+  <td align='center' width='300px'></td>
+  <td align='center'>X</td>
+ </tr>
 </table>
