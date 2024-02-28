@@ -1,7 +1,7 @@
 const fs = require("fs");
 const input = fs.readFileSync("./input.txt").toString().trim().split("\n");
 
-let result = 0; // 21번줄에서 값을 변경하기 위해 const => let으로 변경
+let result = 0; // 26번줄에서 값을 변경하기 위해 const => let으로 변경
 const repeat = parseInt(input[0]); // 반복횟수 정하기 & 문자열을 숫자로 변경해서 대입
 const box = [];
 
