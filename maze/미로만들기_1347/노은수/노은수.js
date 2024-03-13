@@ -2,8 +2,8 @@ const fs = require("fs");
 const path = process.platform === "linux" ? "/dev/stdin" : "./input.txt";
 let input = fs.readFileSync(path).toString().split("\n");
 
-const count = input[0];
-const inputArray = input[1].split("");
+let count = input[0];
+let inputArray = input[1].split("");
 
 function solution(count, array) {
   const maze = [];
@@ -73,25 +73,25 @@ function lRotate(initDirection) {
 }
 
 function mazeSizeCalculator(minX, minY, maxX, maxY) {
-  realMaze = [];
+  const realMaze = [];
   const xSize = maxX - minX;
   const ySize = maxY - minY;
 
   for (let i = 0; i <= xSize; i++) {
-    realMazeColumn = [];
+    const realMazeColumn = [];
     for (let j = 0; j <= ySize; j++) {
       realMazeColumn.push("#");
     }
 
-    realMaze.push(realMazeColumn);
+    realMaze.push([...realMazeColumn]);
   }
   return realMaze;
 }
 
 function mazeMaker(realMaze, maze, minX, minY) {
   for (let i = 0; i < maze.length; i++) {
-    temp1 = maze[i][0];
-    temp2 = maze[i][1];
+    let temp1 = maze[i][0];
+    let temp2 = maze[i][1];
     maze[i][1] = temp1;
     maze[i][0] = temp2; // x , y 치환 -> 인덱스화
 
@@ -104,11 +104,11 @@ function mazeMaker(realMaze, maze, minX, minY) {
 
 function resultReverse(realMaze) {
   const mazeSize = realMaze.length;
-  reverse = [];
+  const reverse = [];
 
   for (let i = 0; i < mazeSize; i++) {
     const column = realMaze.pop();
-    reverse.push(column);
+    reverse.push([...column]);
   }
 
   return reverse;
