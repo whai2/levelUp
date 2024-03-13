@@ -40,7 +40,7 @@ for (let i = 0; i < repeat; i++) {
     }
   } else if (order === "5") {
     if (stack.length !== 0) {
-      result.push(stach.pop());
+      result.push(stack.pop());
     } else {
       result.push("-1");
     }

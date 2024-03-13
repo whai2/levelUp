@@ -144,4 +144,20 @@
   <td align='center' width='300px'>큐</td>
   <td align='center'>X</td>
  </tr>
+ <tr>
+  <td align='center'>04</td>
+  <td align='center' width='120px'>24 / 2 / 26</td>
+  <td align='center' width='110px'>26042</td>
+  <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/26042'>식당입구대기줄</a></td>
+  <td align='center' width='300px'>큐</td>
+  <td align='center'>X</td>
+ </tr>
+ <tr>
+  <td align='center'>04</td>
+  <td align='center' width='120px'>24 / 3 / 4</td>
+  <td align='center' width='110px'>2164</td>
+  <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/2164'>카드2</a></td>
+  <td align='center' width='300px'>큐</td>
+  <td align='center'>X</td>
+ </tr>
 </table>
