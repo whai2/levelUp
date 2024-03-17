@@ -160,4 +160,20 @@
   <td align='center' width='300px'>큐</td>
   <td align='center'>X</td>
  </tr>
+ <tr>
+  <td align='center'>05</td>
+  <td align='center' width='120px'>24 / 3 / 7</td>
+  <td align='center' width='110px'>1347</td>
+  <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/1347'>미로 만들기</a></td>
+  <td align='center' width='300px'>구현</td>
+  <td align='center'>X</td>
+ </tr>
+  <tr>
+  <td align='center'>06</td>
+  <td align='center' width='120px'>24 / 3 / 14</td>
+  <td align='center' width='110px'>1120</td>
+  <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/1120'>문자열</a></td>
+  <td align='center' width='300px'>구현</td>
+  <td align='center'>X</td>
+ </tr>
 </table>
