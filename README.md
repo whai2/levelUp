@@ -173,7 +173,7 @@
   <td align='center' width='120px'>24 / 3 / 14</td>
   <td align='center' width='110px'>1120</td>
   <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/1120'>문자열</a></td>
-  <td align='center' width='300px'>구현</td>
+  <td align='center' width='300px'>브루트포스 알고리즘</td>
   <td align='center'>X</td>
  </tr>
 </table>
