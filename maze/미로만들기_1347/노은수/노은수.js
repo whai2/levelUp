@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = process.platform === "linux" ? "/dev/stdin" : "./input.txt";
 let input = fs.readFileSync(path).toString().split("\n");
 
-let count = input[0];
+let count = Number(input[0]);
 let inputArray = input[1].split("");
 
 function solution(count, array) {
