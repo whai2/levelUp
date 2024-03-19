@@ -22,17 +22,15 @@ function solution(test) {
   let students = testSplit.slice(1).map(student => Number(student));
 
   let count = 0;
-  for (let i = 1; i < students.length; i++) {
-    const fronts = students.slice(0,i);
-    const lefts = students.slice(i+1);
+  for (let i = 0; i < students.length; i++) {
 
-    for (let j = 0; j < fronts.length; j++) {
-      if (students[i] < fronts[j]) {
-        count += i - j;
+    for (let j = i+1; j < students.length; j++) {
+      if (students[i] > students[j]) {
+        count += 1;
+        temp = students[i];
+        students[i] = students[j];
+        students[j] = temp;
 
-        fronts.unshift(students[i]);
-        students = fronts.concat(lefts);
-        break;
       }
     }
   }
