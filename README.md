@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=🖥️알고리즘%20스터디%20Level-UP🆙&fontSize=50&fontAlignY=40" />
- 
 
- 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhai2%2FlevelUp&count_bg=%237E00FF&title_bg=%238D63F5&icon=uplabs.svg&icon_color=%23FFF500&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhai2%2FlevelUp&count_bg=%237E00FF&title_bg=%238D63F5&icon=uplabs.svg&icon_color=%23FFF500&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 1️⃣ 스터디 소개
+
 <br/>
 
 - 알고리즘 실력 향상을 위해 만든 Beakjoon문제풀이 스터디 Level-UP입니다!
@@ -18,7 +18,7 @@
 
 - 노은수 : 도전적이고 창의적인 문제 해결 능력을 보여주세요.
 - 김준영 : 부트캠프 끝나자마자 취뽀 가즈아~
-- 박현우 : 쉬운 문제부터 차례대로 들어와! 
+- 박현우 : 쉬운 문제부터 차례대로 들어와!
 - 안연아 : 부트캠프 끝나면 골드 1 파이팅 ! 🙌
 - 류광현 : 부트캠프전까지 골드 가즈아~
 
@@ -27,6 +27,7 @@
 <br/>
 
 ## 2️⃣ 스터디 멤버 소개👀
+
 <br/>
 
 <table>
@@ -83,6 +84,7 @@
 <br/>
 
 ## 3️⃣ Pull request 작성 방법📖
+
 <br/>
 
 <img src="https://cdn.discordapp.com/attachments/1202183308889559080/1207156119089319956/2024-02-14_11.46.51.png?ex=65de9ebe&is=65cc29be&hm=ac77d0b8274e06cafbb6ff8da2e4d4dcb04b617e2f39a5a3e4f41e412646a885&"/>
@@ -94,6 +96,7 @@
 <br/>
 
 ## 5️⃣ 지켜야 할 것🤙
+
 <br/>
 
 - 팀원들이 이해하기 쉽게 주석 많이 달기
@@ -106,11 +109,13 @@
 <br/>
 
 ## 6️⃣ 주의사항⚠️
-<br/>
 
 <br/>
 
-## 7️⃣  문제 진행 현황
+<br/>
+
+## 7️⃣ 문제 진행 현황
+
 <table>
  <tr>
   <td align='center'>순번</td>
@@ -182,6 +187,22 @@
   <td align='center' width='110px'>10431</td>
   <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/10431'>줄세우기</a></td>
   <td align='center' width='300px'>구현</td>
+  <td align='center'>X</td>
+ </tr>
+ <tr>
+  <td align='center'>08</td>
+  <td align='center' width='120px'>24 / 3 / 19</td>
+  <td align='center' width='110px'>8978</td>
+  <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/8978'>올림픽</a></td>
+  <td align='center' width='300px'>구현</td>
+  <td align='center'>X</td>
+ </tr>
+ <tr>
+  <td align='center'>09</td>
+  <td align='center' width='120px'>24 / 3 / 20</td>
+  <td align='center' width='110px'>5534</td>
+  <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/5534'>간판</a></td>
+  <td align='center' width='300px'>브루트포스 알고리즘</td>
   <td align='center'>X</td>
  </tr>
 </table>
