@@ -205,4 +205,28 @@
   <td align='center' width='300px'>브루트포스 알고리즘</td>
   <td align='center'>X</td>
  </tr>
+  <tr>
+  <td align='center'>10</td>
+  <td align='center' width='120px'>24 / 3 / 21</td>
+  <td align='center' width='110px'>9655</td>
+  <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/9655'>돌게임</a></td>
+  <td align='center' width='300px'>수학</td>
+  <td align='center'>X</td>
+ </tr>
+    <tr>
+  <td align='center'>11</td>
+  <td align='center' width='120px'>24 / 3 / 22</td>
+  <td align='center' width='110px'>1026</td>
+  <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/1026'>보물</a></td>
+  <td align='center' width='300px'>수</td>
+  <td align='center'>X</td>
+ </tr>
+      <tr>
+  <td align='center'>12</td>
+  <td align='center' width='120px'>24 / 3 / 29</td>
+  <td align='center' width='110px'>1302</td>
+  <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/1302'>베스트셀러</a></td>
+  <td align='center' width='300px'>정렬</td>
+  <td align='center'>X</td>
+ </tr>
 </table>
