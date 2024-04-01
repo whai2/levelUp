@@ -218,7 +218,7 @@
   <td align='center' width='120px'>24 / 3 / 22</td>
   <td align='center' width='110px'>1026</td>
   <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/1026'>보물</a></td>
-  <td align='center' width='300px'>수</td>
+  <td align='center' width='300px'>수학</td>
   <td align='center'>X</td>
  </tr>
       <tr>
