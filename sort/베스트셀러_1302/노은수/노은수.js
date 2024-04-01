@@ -7,14 +7,13 @@ const data = fs
   .split("\n")
 
 const number = data[0];
-const array = data.slice(1);
+const array = data.slice(1).sort();
 
 function solution(number, array) {
   const hash = makeHash(array);
-  const maxListInHash = findMaxListInHash(hash);
-  const firstAlphabetical = findAlphabetical(maxListInHash);
+  const keyToFind = findMaxListInHash(hash);
 
-  return firstAlphabetical;
+  return keyToFind;
 }
 
 function makeHash(array) {
@@ -31,26 +30,9 @@ function makeHash(array) {
 }
 
 function findMaxListInHash(hash) {
-  let max = 0;
-  for (book in hash) {
-    max = Math.max(max, hash[book]);
-  }
-  const valueToFind = max;
-
-  const hashToArray = Object.keys(hash);
-  const keysToFind = [];
-  for (let i = 0; i < hashToArray.length; i++) {
-    if (hash[hashToArray[i]] === valueToFind) {
-      keysToFind.push(hashToArray[i]);
-    }
-  }
-  return keysToFind;
-}
-
-function findAlphabetical(maxListInHash) {
-  const firstString = maxListInHash.sort();
-
-  return firstString[0];
+  const max = Math.max(...Object.values(hash));
+  const keyToFind = Object.keys(hash).find((key) => hash[key] == max);
+  return keyToFind;
 }
 
 const result = solution(number, array);
