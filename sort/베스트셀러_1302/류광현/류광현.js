@@ -8,7 +8,7 @@ let [A, ...input] = fs
   .sort();
 
 let box = {};
-let result = "";
+let result = ""; //감점
 
 input.forEach((e) => {
   box[e] == null ? (box[e] = 1) : (box[e] += 1);
