@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=🖥️알고리즘%20스터디%20Level-UP🆙&fontSize=50&fontAlignY=40" />
 
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhai2%2FlevelUp&count_bg=%237E00FF&title_bg=%238D63F5&icon=uplabs.svg&icon_color=%23FFF500&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 1️⃣ 스터디 소개
@@ -203,6 +202,70 @@
   <td align='center' width='110px'>5534</td>
   <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/5534'>간판</a></td>
   <td align='center' width='300px'>브루트포스 알고리즘</td>
+  <td align='center'>X</td>
+ </tr>
+  <tr>
+  <td align='center'>10</td>
+  <td align='center' width='120px'>24 / 3 / 21</td>
+  <td align='center' width='110px'>9655</td>
+  <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/9655'>돌게임</a></td>
+  <td align='center' width='300px'>수학</td>
+  <td align='center'>X</td>
+ </tr>
+  <tr>
+  <td align='center'>11</td>
+  <td align='center' width='120px'>24 / 3 / 22</td>
+  <td align='center' width='110px'>1026</td>
+  <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/1026'>보물</a></td>
+  <td align='center' width='300px'>수학</td>
+  <td align='center'>X</td>
+ </tr>
+  <tr>
+  <td align='center'>12</td>
+  <td align='center' width='120px'>24 / 3 / 29</td>
+  <td align='center' width='110px'>1302</td>
+  <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/1302'>베스트셀러</a></td>
+  <td align='center' width='300px'>정렬</td>
+  <td align='center'>X</td>
+ </tr>
+ <tr>
+  <td align='center'>13</td>
+  <td align='center' width='120px'>24 / 4 / 5</td>
+  <td align='center' width='110px'>1072</td>
+  <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/1072'>게임</a></td>
+  <td align='center' width='300px'>이진 탐색</td>
+  <td align='center'>X</td>
+ </tr>
+ <tr>
+  <td align='center'>14</td>
+  <td align='center' width='120px'>24 / 4 / 12</td>
+  <td align='center' width='110px'>20920</td>
+  <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/20920'>영단어암기는 괴로워</a></td>
+  <td align='center' width='300px'>정렬</td>
+  <td align='center'>X</td>
+ </tr>
+ <tr>
+  <td align='center'>15</td>
+  <td align='center' width='120px'>24 / 4 / 19</td>
+  <td align='center' width='110px'>1213</td>
+  <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/1213'>팰린드롬 만들기</a></td>
+  <td align='center' width='300px'>정렬</td>
+  <td align='center'>X</td>
+ </tr>
+ <tr>
+  <td align='center'>16</td>
+  <td align='center' width='120px'>24 / 4 / 26</td>
+  <td align='center' width='110px'>1431</td>
+  <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/1431'>시리얼번호</a></td>
+  <td align='center' width='300px'>정렬</td>
+  <td align='center'>X</td>
+ </tr>
+ <tr>
+  <td align='center'>17</td>
+  <td align='center' width='120px'>24 / 5 / 3</td>
+  <td align='center' width='110px'>19941</td>
+  <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/19941'>햄버거분배</a></td>
+  <td align='center' width='300px'>그리디</td>
   <td align='center'>X</td>
  </tr>
 </table>
