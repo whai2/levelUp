@@ -268,4 +268,12 @@
   <td align='center' width='300px'>그리디</td>
   <td align='center'>X</td>
  </tr>
+ <tr>
+  <td align='center'>18</td>
+  <td align='center' width='120px'>24 / 5 / 9</td>
+  <td align='center' width='110px'>1326</td>
+  <td align='center' width='150px'><a href='https://www.acmicpc.net/problem/1326'>폴짝폴짝</a></td>
+  <td align='center' width='300px'>그래프</td>
+  <td align='center'>X</td>
+ </tr>
 </table>
